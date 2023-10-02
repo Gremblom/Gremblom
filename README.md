@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Carlos David Florez Santamaria</h1>
 <h3 align="center">A passionate backend developer from Colombia, currently I am a junior web developer with soft skills in teamwork, problem solving and creativity</h3>
 
+<div align="center">
+<a href="#"><img src="https://media.tenor.com/FeCNaS-UwFYAAAAC/hakos-baelz-back-flip.gif"></a>
+</div>
+
 - 🔭 I’m currently working on **Campuslands**
 
 - 🌱 I’m currently learning **NodeJS, Express and React**

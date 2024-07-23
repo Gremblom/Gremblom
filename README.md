@@ -5,11 +5,8 @@
 <a href="#"><img src="https://media.tenor.com/FeCNaS-UwFYAAAAC/hakos-baelz-back-flip.gif"></a>
 </div>
 
-- 🔭 I’m currently working on **Campuslands**
 
-- 🌱 I’m currently learning **NodeJS, Express and React**
-
-- 💬 Ask me about **JavasCript, Python, C#**
+- 💬 Ask me about **JavasCript, NodeJS, Express and React**
 
 - 📫 How to reach me **cdflorezs@gmail.com**
 
